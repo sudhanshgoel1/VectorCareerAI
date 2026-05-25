@@ -1,0 +1,5 @@
+# Ignore frontend dependencies
+frontend/node_modules/
+
+# Ignore backend Python caches
+backend/__pycache__/
